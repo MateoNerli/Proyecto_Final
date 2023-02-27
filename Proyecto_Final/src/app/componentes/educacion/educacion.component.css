@@ -1,0 +1,15 @@
+.row{
+    padding: 20px;
+}
+div{
+    background: #4e86c2;
+}
+h2,h4{
+    display: inline;
+}
+img{
+    width: 70px;
+}
+ul{
+    margin-top: 75px;
+}

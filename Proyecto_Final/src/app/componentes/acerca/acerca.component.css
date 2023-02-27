@@ -14,10 +14,12 @@ div{
     }
     #texto{
         font-weight: bold;
-        margin-top: 10%;
+        margin-top: 12%;
         position: relative; 
-        left: -8
-        0px;
+        left: -105px;
+    }
+    #info{
+        margin-top: 3%;
     }
 }
 @media (max-width: 576px) {
